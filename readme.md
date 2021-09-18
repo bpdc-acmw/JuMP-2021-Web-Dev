@@ -3,7 +3,7 @@
 Mentors: 
 1. Jureyyah Firdaws: [@juriya46](https://github.com/juriya46)
 1. Asmi Sriwastawa: [@itsParmesan](https://github.com/itsParmesan)
-1. Bondala Sri Latha 
+1. Bondala Sri Latha: [@srilathabondala](https://github.com/srilathabondala)
 
 Mentees: 
 1. Avani Kottalgi: [@avani2003](https://github.com/avani2003)
