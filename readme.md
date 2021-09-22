@@ -7,7 +7,7 @@ Mentors:
 
 Mentees: 
 1. Avani Kottalgi: [@avani2003](https://github.com/avani2003)
-1. Sadah Ahmed: [@sadafahmedd](https://github.com/sadafahmedd)
+1. Sadaf Ahmed: [@sadafahmedd](https://github.com/sadafahmedd)
 1. Urvi Modi: [@urvim02](https://github.com/urvim02)
 
 Check out the directories for projects by our mentors and mentees: 
