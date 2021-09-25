@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Calculator</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body class="light-theme">
+    <h1>Basic Calculator</h1>
+    <p id="msg">How to use it:</p>
+    <ol>
+        <li>Type the operands into the text boxes</li>
+        <li>Select the operator from the dropdown</li>
+        <li>Press the button to see the result</li>
+    </ol>
+    <div>
+        <button class="btn" id="thbtn">Theme</button>
+    </div>
+    <form>
+        <input type="number" id="tb1"><br>
+        <input type="number" id="tb2">
+    </form>
+    <select id="dd">
+        <option>+</option>
+        <option>-</option>
+        <option>x</option>
+        <option>/</option>
+    </select>
+    <h2 id="eqs">=</h2>
+    <div id="res">
+        <h2 id="result"></h2>
+    </div>
+    <div>
+        <button class="btn" id="calcbtn">Calculate!</button>
+    </div>
+    <script src="app.js"></script>
+    <noscript>You need to enable JavaScript to view the full site.</noscript>
+</body>
+</html>

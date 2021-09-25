@@ -1,0 +1,128 @@
+:root {
+    --green: #9006ac;
+    --white: #ffffff;
+    --black: #000000;
+    --limg: url('LightBG.jpg');
+    --dimg: url('DarkBG.jpg');
+}
+
+* {
+    color: var(--fontColor);
+    font-family: helvetica;
+}
+
+body {
+    background-image: var(--bgimg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn {
+    position: absolute;
+    top: 3%;
+    left: 85%;
+    right: 15%;
+    bottom: 97%;
+    border: none;
+    color: var(--btnFontColor);
+    background: var(--btnBg);
+}
+
+.btn:focus { outline-style: none; }
+
+#msg {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#thbtn {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+
+#tb1 {
+    position: absolute;
+    top: 30%;
+    bottom: 70%;
+    left: 35%;
+    right: 65%;
+    width: 100px;
+    height: 20px;
+}
+
+#tb2 {
+    position: absolute;
+    top: 30%;
+    bottom: 70%;
+    left: 58%;
+    right: 42%;
+    width: 100px;
+    height: 20px;
+}
+
+#dd {
+    position: absolute;
+    top: 30%;
+    bottom: 70%;
+    left: 48%;
+    right: 52%;
+    width: 70px;
+    height: 26px;
+}
+
+#eqs {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#res {
+    position: absolute;
+    top: 41%;
+    left: 47%;
+    height: 25px;
+    width: 100px;
+    color: #b46767;
+}
+
+#result {
+    /*position: absolute;
+    top: 40%;
+    left: 50%;*/
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#calcbtn {
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    height: 25px;
+    width: 70px;
+}
+
+.light-theme {
+    /*--bg: var(--green);*/
+    --fontColor: var(--black);
+    --btnBg: var(--black);
+    --btnFontColor: var(--white);
+    --bgimg: var(--limg);
+}
+
+.dark-theme {
+    /*--bg: var(--black);*/
+    --fontColor: var(--green);
+    --btnBg: var(--white);
+    --btnFontColor: var(--black);
+    --bgimg: var(--dimg);
+}
