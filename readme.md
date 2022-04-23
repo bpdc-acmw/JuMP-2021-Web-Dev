@@ -12,3 +12,10 @@ Mentees:
 
 Check out the directories for projects by our mentors and mentees: 
 **TBD**
+
+
+THIS WEEK PROGRESS
+
+<img width="1440" alt="Screen Shot 2022-04-23 at 12 15 32 PM" src="https://user-images.githubusercontent.com/90939272/164886516-3178f593-f8a1-4d98-91ab-6572b5364f94.png">
+<img width="1440" alt="Screen Shot 2022-04-23 at 12 15 40 PM" src="https://user-images.githubusercontent.com/90939272/164886534-59f7db39-d386-447b-88f9-ffad5956a622.png">
+<img width="1440" alt="Screen Shot 2022-04-23 at 12 15 43 PM" src="https://user-images.githubusercontent.com/90939272/164886541-3648f7ef-0aeb-43e3-a37d-9e5d3122eab6.png">
