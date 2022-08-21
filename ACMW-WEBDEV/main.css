@@ -1,0 +1,62 @@
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --limg: url('LightBG.jpg');
+    --dimg: url('DarkBG.jpg'); 
+  }
+  
+  #head1{
+    color: #bab2b7;
+    font-family: 'Lucida Handwriting',cursive;
+    text-align: left;
+    background-color: #0D1121;
+    font-size: large;
+  }
+  
+  #head2{
+    background-color:  #9198e5;
+    background-size:100% 100%;
+    text-align: center;
+    font-family: 'Lucida Calligraphy',cursive;
+    color:#ffffff
+  }
+  
+  #logo{
+    float: left;
+    height:100px;
+    width:100px;
+  }
+  
+  #games{
+    align-self:center;
+    float:left;
+    height:100px;
+    width:100px;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  
+  #blogs{
+    align-self:center;
+    height:100px;
+    width:100px;
+    float:right;
+    padding-right:20%;
+  } 
+  
+  #community{
+    align-self:center;
+    height:100px;
+    width:100px;
+    float:left;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  
+  #quiz{
+    align-self:center;
+    height:100px;
+    width:100px;
+    float:right;
+    padding-right:20%;
+  } 
